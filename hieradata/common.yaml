@@ -1,0 +1,3 @@
+---
+nginx::message1: 'This message came from the common hiera datasource.'
+
